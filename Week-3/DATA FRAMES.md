@@ -1,4 +1,4 @@
-#TASK -3(DATA FRAMES)
+#TASK -3(DATA FRAMES)    
 #Q-1
 > name = c('SITA', 'RAMU', 'VARMA', 'SAM', 'VIJAY', 'RAVI', 'RAJU', 'RANI', 'VANI', 'VALLI')
 > score = c(12.5, 9, 16.5, 12, 9, 20, 14.5, 13.5, 8, 19)
