@@ -15,7 +15,6 @@
 
 > name=c("valli","vani","vijay","ramu","raju")
 > Working <- c("Yes","No","No","Yes","Yes")
-
 > df <- data.frame(row.names = name,Working)
 > df1<-cbind(dataframe,df)
 > df1
@@ -49,7 +48,6 @@
 
 #Excersice - 6
 > class(VADeaths)
-[1] "matrix" "array" 
 > df3 <- data.frame(VADeaths)
 > df3$Total <- rowSums(df3)
 > df3 <- df3[,c(5,1,2,3,4)]
@@ -58,7 +56,6 @@
 
 #Exercise - 7
 > class(state.x77)
-[1] "matrix" "array" 
 > df4 <- data.frame(state.x77)
 > df4
 > nrow(df4[df4$Income < 4300,]) 
@@ -96,6 +93,6 @@
 > row.names(x[which.max(x$Income),]) 
 > max(x$Income)
 
-
+      
 
 
