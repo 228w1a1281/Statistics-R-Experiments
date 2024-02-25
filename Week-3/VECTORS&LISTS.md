@@ -1,5 +1,5 @@
-#WEEK-3
-#TASK-1(VECTORS&LISTS)
+#WEEK-3(VECTORS&LISTS)
+#TASK-1
 #Q-1
 > rev_vector <- c("a", "b", "c", "d", "e")
 > rev_vector <- rev_vector[5:1]
