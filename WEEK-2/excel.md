@@ -26,4 +26,4 @@
 # ℹ 6 more variables: country_of_bean_origin <chr>,
 #   specific_bean_origin_or_bar_name <chr>, cocoa_percent <chr>,
 #   ingredients <chr>, most_memorable_characteristics <chr>, rating <dbl>
-   
+        
